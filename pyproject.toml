@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "election-ads-milestone-b"
+version = "0.1.0"
+description = "Dynamic CSV analysis CLI and registry (Milestone B); depends on Task_02 library"
+requires-python = ">=3.10"
+dependencies = []

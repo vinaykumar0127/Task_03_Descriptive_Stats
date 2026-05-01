@@ -1,0 +1,1 @@
+# Uses Task 02's election_analysis package (stdlib + optional pandas/polars for loaders only).
